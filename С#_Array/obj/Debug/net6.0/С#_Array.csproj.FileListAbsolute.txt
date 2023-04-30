@@ -1,0 +1,15 @@
+/Users/gorlitz/Desktop/Массивы/С#_Array/bin/Debug/net6.0/С#_Array
+/Users/gorlitz/Desktop/Массивы/С#_Array/bin/Debug/net6.0/С#_Array.deps.json
+/Users/gorlitz/Desktop/Массивы/С#_Array/bin/Debug/net6.0/С#_Array.runtimeconfig.json
+/Users/gorlitz/Desktop/Массивы/С#_Array/bin/Debug/net6.0/С#_Array.dll
+/Users/gorlitz/Desktop/Массивы/С#_Array/bin/Debug/net6.0/С#_Array.pdb
+/Users/gorlitz/Desktop/Массивы/С#_Array/obj/Debug/net6.0/С#_Array.csproj.AssemblyReference.cache
+/Users/gorlitz/Desktop/Массивы/С#_Array/obj/Debug/net6.0/С#_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorlitz/Desktop/Массивы/С#_Array/obj/Debug/net6.0/С#_Array.AssemblyInfoInputs.cache
+/Users/gorlitz/Desktop/Массивы/С#_Array/obj/Debug/net6.0/С#_Array.AssemblyInfo.cs
+/Users/gorlitz/Desktop/Массивы/С#_Array/obj/Debug/net6.0/С#_Array.csproj.CoreCompileInputs.cache
+/Users/gorlitz/Desktop/Массивы/С#_Array/obj/Debug/net6.0/С#_Array.dll
+/Users/gorlitz/Desktop/Массивы/С#_Array/obj/Debug/net6.0/refint/С#_Array.dll
+/Users/gorlitz/Desktop/Массивы/С#_Array/obj/Debug/net6.0/С#_Array.pdb
+/Users/gorlitz/Desktop/Массивы/С#_Array/obj/Debug/net6.0/С#_Array.genruntimeconfig.cache
+/Users/gorlitz/Desktop/Массивы/С#_Array/obj/Debug/net6.0/ref/С#_Array.dll
